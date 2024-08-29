@@ -1,15 +1,14 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6c95df&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+˚ᆺ˚+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9fa2bd&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+˚ᆺ˚+%E2%8A%B9+" alt="Typing SVG">
   </a>
+  <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif"><br>
+  <p font-color="6c95df" align="left">Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI.
+    Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
+  </p><br><br>
 </div>
 
-<p font-color="6c95df" align="left">Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI. 
-  Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
-
-<img align="right" alt="" height="190px" src="./src/gif_self.gif">
-
-#
+##
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="devIcon-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />         
@@ -29,7 +28,7 @@
 
 </div>
 
-#
+##
 
 <picture align="center"><br>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabmoleiro/gabmoleiro/output/github-contribution-grid-snake-dark.svg">
