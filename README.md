@@ -29,7 +29,7 @@
   <img align="center" alt="devIcon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
 </div>
 
-##
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabmoleiro/gabmoleiro/output/github-contribution-grid-snake-dark.svg">
