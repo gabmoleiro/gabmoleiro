@@ -1,30 +1,24 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6673a5&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+˚ᆺ˚+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-<img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif"><br>
-
-<p font-color="6c95df" align="left"> Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI.
-  Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
-</p>
-
-<div style="display: inline_block" align="left">
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%9A%E1%86%BA%CB%9A+%E2%8A%B9" alt="Bem-vindo ao meu perfil!" /></a>
+  <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif">
+  <p font-color="6c95df" align="left"> Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI.
+    Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
+  </p>
+  <div style="display: inline_block" align="left">
+    
+  [![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellabmoleiro@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-moleiro-2398a6281/)
   
-[![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellabmoleiro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriella-moleiro-2398a6281/)
-
-</div><br>
-
-##
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&color=6673a5&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Tecnologias+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+  </div><br>
 </div>
 
-<div style="display: inline_block" align="center"><br>
+#
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&center=true&repeat=false&width=435&lines=Tecnologias" alt="Tecnologias" /></a>
+</div>
+
+<div style="display: inline_block" align="center">
   <img align="center" alt="devIcon-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />         
   <img align="center" alt="devIcon-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />          
   <img align="center" alt="devIcon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
