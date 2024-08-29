@@ -4,6 +4,11 @@
   </a>
 </div>
 
+<p font-color="6c95df" align="left">Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI. 
+  Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 #
 
 <div style="display: inline_block" align="center"><br>
