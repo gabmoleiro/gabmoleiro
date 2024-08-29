@@ -1,5 +1,5 @@
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%9A%E1%86%BA%CB%9A+%E2%8A%B9" alt="Bem-vindo ao meu perfil!" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&repeat=false&width=435&lines=%E2%8A%B9+Bem-Vindo+ao+meu+perfil!+%CB%9A%E1%86%BA%CB%9A+%E2%8A%B9" alt="Bem-vindo ao meu perfil!" /></a>
   <img align="right" alt="" height="200px" width="200" src="./src/gif_self.gif">
   <p font-color="6c95df" align="left"> Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI.
     Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
@@ -15,7 +15,7 @@
 #
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&center=true&repeat=false&width=435&lines=Tecnologias" alt="Tecnologias" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=990&color=6673A5&center=true&repeat=false&width=435&lines=Tecnologias" alt="Tecnologias" /></a>
 </div>
 
 <div style="display: inline_block" align="center">
