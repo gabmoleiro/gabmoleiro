@@ -7,7 +7,7 @@
 <p font-color="6c95df" align="left">Olá me chamo Gabriella, sou Dev Full Stack. Atualmente, estou cursando Engenharia de Software na Estácio e técnico em Desenvolvimento de Sistemas no SENAI. 
   Meu foco está em aprimorar minhas habilidades e contribuir para projetos desafiadores no campo da tecnologia.
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/gif_self.gif">
 
 #
 
@@ -36,5 +36,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabmoleiro/gabmoleiro/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabmoleiro/gabmoleiro/output/github-contribution-grid-snake.svg">
 </picture>
-
-
