@@ -27,8 +27,16 @@
   <img align="center" alt="devIcon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="devIcon-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
   <img align="center" alt="devIcon-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />      
-</div>
+</div><br>
 
+<!--
+<div align="center">
+  <a href="https://github.com/gabmoleiro">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmoleiro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=gabmoleiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+-->
+  
 #
 
 <picture align="center">
